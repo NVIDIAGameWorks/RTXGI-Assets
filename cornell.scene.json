@@ -1,0 +1,26 @@
+{
+	"models": [
+		"cornell_box/cornell_box.gltf"
+	],
+	"graph": [
+		{
+			"name": "Cornell",
+			"model": 0,
+			"translation": [0, 0, 0],
+			"scaling": 1,
+			"rotation": [0, 0, 0, 0]
+		},
+
+		{
+			"name": "DefaultCamera",
+				"type": "PerspectiveCamera",
+				"translation": [ 0.0, 1.0, 4.0 ],
+				"rotation": [ 0, 0, 0, 0 ],
+				"verticalFov": 0.7,
+				"zNear": 0.010000,
+				"enableAutoExposure": true,
+				"exposureCompensation": 2.200000,
+				"exposureValue": -2.0
+		  }	  
+	]
+}
