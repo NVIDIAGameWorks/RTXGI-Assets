@@ -1,6 +1,6 @@
 {
 	"models": [
-		"cornell_box/cornell_box.gltf"
+		"CornellBox/cornell_box.gltf"
 	],
 	"graph": [
 		{

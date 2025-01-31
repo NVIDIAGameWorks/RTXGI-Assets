@@ -1,7 +1,7 @@
 {
   "models": [
-    "living_room/living_room.gltf",
-    "glTF-Sample-Models/2.0/BrainStem/glTF/BrainStem.gltf"
+    "LivingRoom/living_room.gltf",
+    "GltfSampleModels/2.0/BrainStem/glTF/BrainStem.gltf"
   ],
   "graph": [
     {
